@@ -1,0 +1,5 @@
+symboling,make,fuel_type,aspiration,num_doors,body_style,drive_wheels,engine_location,wheelbase,length,width,height,curb_weight,engine_type,num_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price
+2,bmw 320i,gas,std,two,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16430
+0,bmw 320i,gas,std,four,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,1600,mpfi,3.5,2.8,8.8,101,5800,23,29,16925
+0,bmw x1,gas,std,two,sedan,rwd,front,101.2,176.8,64.8,54.3,2710,ohc,six,164,mpfi,3.31,3.19,9,121,4250,21,28,20970
+0,bmw x3,gas,std,four,sedan,rwd,front,101.2,176.8,64.8,54.3,2765,ohc,six,164,mpfi,3.31,3.19,9,121,4250,21,28,21105

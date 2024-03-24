@@ -1,0 +1,5 @@
+normalized_losses,make,fuel_type,aspiration,num_doors,body_style,drive_wheels,engine_location,wheelbase,length,width,height,curb_weight,engine_type,num_cylinders,engine_size,fuel_system,stroke,horsepower,city_mpg,compression_ratio,peak_rpm,highway_mpg,bore,price
+3,165,alfa-romero,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,
+3,167,alfa-romero,gas,std,two,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9,111,5000,21,27,
+1,178,alfa-romero,gas,std,two,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,ohcv,six,152,mpfi,2.68,3.47,9,154,5000,19,26,
+2,164,audi,gas,std,four,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,ohc,four,109,mpfi,3.19,3.4,10,102,5500,24,30,
